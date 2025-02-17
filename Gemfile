@@ -10,7 +10,7 @@ gem "sprockets-rails"
 gem "sqlite3", ">= 1.4"
 
 group :production do
-  gem "pg", "1.3.5"
+  gem "pg", "1.5.9"
 end
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", ">= 5.0"
